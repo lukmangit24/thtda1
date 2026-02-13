@@ -12,7 +12,7 @@
 ## 🚀 Live Demo  
 
 🔗 **Streamlit App**  
-https://thtda.streamlit.app  
+https://thtda1.streamlit.app  
 
 
 ---
